@@ -1,0 +1,6 @@
+osvx-keyring (2014.06.03) unstable; urgency=low
+
+  * Add 2048D/7E6EFA7F OS/VX development team <devel@osvx.net>
+    to osvx-archive-keyring.
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Tue, 03 Jun 2014 00:34:51 +0400

@@ -1,0 +1,15 @@
+Source: osvx-keyring
+Section: misc
+Priority: optional
+Maintainer: OS/VX development team <devel@osvx.net>
+Standards-Version: 3.8.3
+
+Package: osvx-keyring
+Priority: important
+Architecture: all
+Multi-Arch: foreign
+Recommends: gpgv
+Description: GnuPG keys of the OS/VX archive
+ The OS/VX team digitally signs its Release files. This package
+ contains the archive keys used for that.
+
